@@ -1,0 +1,9 @@
+cache
+
+uploads/avatars/*
+uploads/covers/*
+uploads/media/*
+!uploads/media/index.html
+!uploads/avatars/index.html
+!uploads/covers/index.html
+
